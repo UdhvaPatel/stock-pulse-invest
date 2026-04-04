@@ -1,0 +1,1 @@
+# Hey, FinHack 2026 participants
