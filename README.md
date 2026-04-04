@@ -1,4 +1,4 @@
-# StockPulse (AI Hype Navigator)
+# StockPulse (Smart Investing, Powered by News)
 
 **Live Demo:** [https://stock-pulse-invest.vercel.app/](https://stock-pulse-invest.vercel.app/)
 
